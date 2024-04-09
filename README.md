@@ -5,7 +5,7 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python,Google VM Instance, Mage Data Pipeline Tool and Google BigQuery
 
 ## Architecture 
-<img src="architecture.png.">
+<img src="architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
